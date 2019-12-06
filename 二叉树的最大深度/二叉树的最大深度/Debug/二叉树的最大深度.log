@@ -1,0 +1,26 @@
+﻿  源.cpp
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(47,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(58,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(68,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(122,9): error C2065: “stack”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(122,15): error C2065: “pair”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(122,1): error C2059: 语法错误:“,”
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(126,16): error C2065: “s”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(130,17): error C2065: “s”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(130,24): error C2065: “pair”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(130,1): error C2059: 语法错误:“,”
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(133,15): error C2065: “s”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(134,18): error C2065: “s”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(136,13): error C2065: “s”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(147,10): error C2065: “deque”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(147,1): error C2059: 语法错误:“>”
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(148,10): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(150,17): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(153,22): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(156,29): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(157,17): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(158,29): error C2065: “q”: 未声明的标识符
+C:\Users\DXS\Desktop\数据结构\LeetCode\树类型题目\二叉树的最大深度\二叉树的最大深度\源.cpp(159,30): error C2065: “q”: 未声明的标识符
